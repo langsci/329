@@ -1,7 +1,4 @@
-\documentclass[collection,multiauthors,
-            colorlinks, citecolor=brown
-            % ,draft,draftmode
-		  ]{langscibook}
+\documentclass[collection,multiauthors]{langscibook}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \input{localmetadata.tex}
@@ -17,17 +14,11 @@
 \begin{document}
 \maketitle
 \frontmatter
-% %% uncomment if you have preface and/or acknowledgements
 
 \currentpdfbookmark{Contents}{name} % adds a PDF bookmark
 {\sloppy\tableofcontents}
 
-%% sections without authors
 \include{chapters/preface}
-% \include{chapters/acknowledgments}
-
-% %% Additional prefaces and/or introductions that also have authors
-% \includepaper{chapters/prefaceEd}
 
 \mainmatter
 
@@ -35,14 +26,14 @@
 %%%             Chapters                         %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\includepaper{chapters/01} %
-\includepaper{chapters/02} %
-\includepaper{chapters/03} %
-\includepaper{chapters/04} %
-\includepaper{chapters/05} %
-\includepaper{chapters/06} %  OK
-\includepaper{chapters/07} %  OK
-\includepaper{chapters/08} % OK
+\includepaper{chapters/01}
+\includepaper{chapters/02}
+\includepaper{chapters/03}
+\includepaper{chapters/04}
+\includepaper{chapters/05}
+\includepaper{chapters/06}
+\includepaper{chapters/07}
+\includepaper{chapters/08}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%             Backmatter                       %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
