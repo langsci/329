@@ -1,0 +1,418 @@
+Abessive
+Accent
+Acceptability
+Accusative
+Acquisition 
+Active voice
+Adjacency
+Adjective 
+Adjunct
+Adverb
+Adverbial
+Adverbial infinitive 
+AF order
+Agree
+Agreement 
+Agreement features
+AgrP 
+Aktionsart
+Äldre svenska romaner
+Archaic dialect
+ArgP
+Argument placement 
+Argument structure construction 
+Argus
+Assertion
+Associate subject
+att-omission 
+Attributive adjective
+Ausbau 
+Auxiliary
+Aux-X-V 
+BBC
+Benefactive
+Bible
+Bi-morphemic
+Case agreement
+Case assigner
+Case assigning property 
+Case assignment
+Case feature
+Case marking 
+Case morphology
+Case position
+Case system
+Causation
+c-command
+C-domain 
+Central Sweden 
+Choice of subject
+Clitic
+Cluster analysis
+Clustering
+Clustering verbs
+Cluster structure
+Common gender
+communication verb
+Communication verbs
+Comparative adjective
+Competing grammars
+Complement
+Complementizer
+Concessive
+Concessive infinitive 
+Conditional
+Constituent
+Constructicon
+Constructional change 
+Construction grammar 
+Contact-induced change
+Control infinitives 
+Corpus of Swedish drama dialogue
+Corpus of Swedish prose fiction 1800–1900
+Countable noun
+CP
+Dative
+Declarative
+Definite article
+Definite inflection
+Definiteness
+Definiteness effect
+Definiteness restriction
+Degree adverbial
+Determiner
+Diachronic construction grammar 
+Dialect
+Dialect variation
+Directional adverb 
+Directional preposition 
+Direct linearization 
+Direct object 
+Direct object slot
+Discourse marker
+Ditransitive
+Ditransitive passive 
+Ditransitive verb
+Double definiteness 
+Double object construction
+Dummy pronoun
+ECM
+Economy principle
+Embedded clause
+Embedded V2 
+Embedded V-to-C
+Emphatic
+Enclitic pronoun
+EPP feature
+Estonia
+Event description 
+EWL
+Exclamative
+Experiencer
+Experiencer verb
+Expletive
+External factor
+FA order
+Feature setup
+Feminine
+Figure argument
+Finiteness
+Fixed expressions
+FOFC
+Fornsvenska textbanken
+Free benefactive
+Frequency measure
+“From” verbs
+Gender
+Gender distinction
+Generic pronoun
+Genitive
+Genre
+Goal 
+Grammaticalization
+Grammatical replication 
+Ground argument
+Handwritten text recognition 
+Hanseatic League 
+Ha-omission 
+Headedness
+Head-final
+Head-initial
+Head Preference Principle
+Heritage language
+heritage variety 
+High-scalar
+hindered transfer
+Hindered transfer
+Holmberg’s generalization 
+Idiosyncratic case
+I-domain
+Illocutionary force 
+Incorporation 
+Indefinite
+Indefinite article
+Indirect object
+Infinitival clause 
+Infinitival marker
+Infinitival preposition
+Infinitive marker 
+Inflection
+Inflectional categories
+Inflectional domain
+Inflectional paradigm
+Information structure
+Inherent case
+Inherent plural
+Innovation
+Input
+Instrumental infinitive 
+Intervening constituents
+Intuition
+IP
+Judgements
+Korp
+Language contact
+Language planning
+laws of the provinces
+Laws of the provinces
+LCA
+Lexical case
+Lexical change
+Lexicalized expression
+Lexical range
+Lexical variability
+Lexical variation 
+Licensing
+Linear Correspondence Axiom
+Literacy 
+Litteraturbanken
+Loan
+Locative
+Long object shift
+Low-scalar
+Main clause
+Masculine
+Mass noun
+Maximal prosodic word
+Medial VP position
+Medieval laws 
+Minimality constraint 
+Minority language
+Mirror Theory 
+Modified particle 
+Mono-morphemic
+Morphological distinctiveness
+morphologically distinct
+morphological passive
+Morphological passive
+Morphological reanalysis 
+Morphosyntactic change 
+Morphosyntactic variation
+Movement
+National language
+Nation state 
+Negative polarity 
+Negative polarity item
+Neuter
+New information
+Nominal domain
+Nominal reference 
+Nominative
+Non-agreement
+Non-inflection
+Non-nominal antecedent
+Non-pronominal object
+Non-pronominal subject
+Non-referential det 
+Non-referential subject
+Non-standardized variety 
+Nordic word order database
+Normative grammar 
+Normative grammarians
+Noun phrase
+NPI 
+Nuckö
+Null expletive
+Null subject
+Number agreement
+Object-asymmetrical language 
+Object case
+Objective case
+Object shift
+Object-symmetrical language 
+Object symmetry
+Oblique case
+Older Swedish novels
+Old Swedish Text Bank
+omitted auxiliary 
+Optional indirect object
+Orust
+OV order
+OV to VO 
+OV word order
+Pancake sentence
+Parallel grammars
+Participle 
+Participle morphology 
+Particle
+Particle stress
+Passive
+Passive ditransitive
+Passive voice
+Passivized direct object
+Passivized indirect object
+Passivized object 
+Past participle
+Perfect
+perfect participle
+Periodization
+Periphrastic passive
+Person agreement
+Person distinction 
+Person-Number Universal 
+Phave
+Phi-feature
+Phrasal particle 
+Pied-piping 
+Polarity item 
+Positive adjective
+Positive polarity 
+Positive polarity item
+Possessive
+Post-nominal possessive
+PPI
+Predicative 
+Prefix
+Prefixed verb
+Pre-nominal possessive
+Prepositional infinitive
+Prepositional infinitive 
+Prepositional prefix
+Probe 
+Proclitic 
+pro-drop 
+Productive
+productivity 
+Promoted to subject
+Pronominal object 
+Pronominal subject
+Pronominal system 
+Prosodic word
+Prosody
+provincial law
+Provincial law
+Pseudo-passive
+Purposive 
+Purposive infinitive 
+Q-quote
+Quantifier 
+Question
+RAH
+Raising 
+Reanalysis
+Recommendation
+Reconstruction 
+Referential pronoun
+Reflexive
+Relative clause
+Relative frequency
+Relativization
+Relativized indirect objects 
+Relativized object
+Replica grammaticalization 
+ResP 
+Result Phrase
+Rich Agreement Hypothesis
+Right branching
+SAOB
+SAOL 
+ScanDiaSyn
+Schooling 
+Scrambling
+Semantic change 
+Semantic narrowing
+Semantic range
+Semantic richness
+Semantic role
+Semantic specialization 
+Sentence adverbials
+Sentential negation
+s-passive
+Speaker  
+SPF corpus
+Standardization
+Standard language
+Stem alternation
+Strong inflection
+Structural case
+Stylistic Fronting
+Subject position
+Subject shift
+Subject-verb agreement 
+Subordinate clause 
+Substitutive 
+Supine 
+Svenska Akademiens Ordbok
+Svenska Akademiens ordlista
+SV word order
+Swedish drama dialogue
+Swedish Literature Bank
+Syntactic grammaticalization
+Syntactic loan
+Syntactic word
+taxonomic hierarchy
+Taxonomic network
+telic
+Telicity
+Temporal adverbials
+Temporal infinitive
+Tense
+Tense system
+Text frequency 
+The Basic Branching Constraint
+The Final-over-Final Condition
+Three-gender system 
+Token frequency
+Topicalization
+Topicalized direct object
+Topicalized indirect object
+“To” verbs 
+Traditional dialect
+Transfer
+Type frequency
+Type-to-token ratio 
+Unaccusative  
+Understating
+V2 order
+V2 word order
+Vadstena
+Valency
+V-Aux 
+Verb agreement
+Verbal adjunct
+verbal agreement
+Verbal cluster
+Verbal inflection
+Verbal noun 
+Verbal particle
+Verb particle
+verb second order
+verbs of communication
+verbs of hindrance
+Verb-specific construction 
+Verb-specific DOC
+Verbum dicendi 
+Verschriftlichung 
+V in situ 
+VO order
+VO word order
+vP
+vP-internal argument shift
+VP-internal subject 
+VS word order
+V-to-C 
+V-to-I 
+V-X-Aux
+Weak inflection
+Weak pronoun
+φ-feature
