@@ -304,7 +304,9 @@
     fontsize=\lsFontsize,% default is 11pt
     footnotes=multiple,
     numbers=noenddot,% no point after last number of chapters/sections
-    toc=bibliography,
+    \notbool{collection}{
+      toc=bib, % make bibliography appear in toc
+    }{}
     index=totoc,
     headings=optiontohead,
     footnotes=multiple
@@ -1472,9 +1474,6 @@ Storage and cataloguing done by \storageinstitution\\[3ex]
 	\ifbool{resetcapitals}{language=english,}{}
 	backend=\lsBiblatexBackend,
 	indexing=cite,
-	\notbool{collection}{
-		toc=bib, % make bibliography appear in toc
-        }{}
 ]{biblatex}
 
 %% DOIs are handled after hyperref.
